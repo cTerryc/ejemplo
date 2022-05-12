@@ -6,3 +6,5 @@ var b = 2 + 3;
 
 
 console.log('hola, como va?');
+
+var c = 2 + 3;
